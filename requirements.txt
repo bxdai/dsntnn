@@ -1,5 +1,5 @@
 # Dependencies
-torch==1.1.0
+#torch==1.1.0
 # Development dependencies
 mkdocs==0.17.2
 pymdown-extensions==4.3
